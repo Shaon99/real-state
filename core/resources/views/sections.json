@@ -1,0 +1,162 @@
+{
+    "banner": {
+        "no_selection": true,
+        "content": {
+            "title": "text",
+            "short_description": "textarea",
+            "image": "file",
+            "size": "w-1960 x h-1080 perfect fit"
+        }
+    },
+    "popular_place": {
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        }
+    },
+    "feature": {
+        "content": {
+            "title": "text",
+            "short_description": "textarea",
+            "feature_heading": "file",
+            "size": "w-1920 x h-540 perfect fit"
+        }
+    },
+    "why_choose_us": {
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        },
+        "element": {
+            "image": "file",
+            "title": "text",
+            "short_description": "textarea",
+            "size": "w-480 x h-480 perfect fit"
+        }
+    },
+    "popular_properties": {
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        }
+    },
+    "team": {
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        },
+        "element": {
+            "image": "file",
+            "member_name": "text",
+            "designation": "text",
+            "facebook_link": "text",
+            "linkedin_link": "text",
+            "instagram_link": "text",
+            "size": "w-260 x h-174 perfect fit"
+        }
+    },
+    "testimonial": {
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        },
+        "element": {
+            "image": "file",
+            "name": "text",
+            "organisation": "text",
+            "description": "textarea",
+            "size": "w-252 x h-270 perfect fit"
+        }
+    },
+    "partner": {
+        "no_selection": true,
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        },
+        "element": {
+            "image": "file",
+            "size": "w-185 x h-115 perfect fit"
+        }
+    }, 
+    "blog": {
+        "content": {
+            "header_image": "file",
+            "size": "w-1920 x h-540 perfect fit"
+        },
+        "element": {
+            "image": "file",
+            "title": "text",
+            "short_description": "textarea",
+            "description": "textarea_nic",
+            "size": "w-1000 x h-750 perfect fit"
+        }
+    },
+    "about": {
+        "content": {
+            "title": "text",
+            "vedio_link": "text",
+            "description": "textarea_nic",
+            "image": "another_image",
+            "site_image_size": "w-1000 x h-750 perfect fit",
+            "header_image": "file",
+            "size": "w-1920 x h-540 perfect fit"
+        }
+    },
+    "photo_gallery": {
+        "no_selection": true,
+        "content": {
+            "header_image": "file",
+            "size": "w-1920 x h-540 perfect fit"
+        },
+        "element": {
+            "title": "text",
+            "image": "file",
+            "size": "w-1920 x h-540 perfect fit"
+        }
+    },
+    "vedio_gallery": {
+        "no_selection": true,
+        "content": {
+            "header_image": "file",
+            "size": "w-1920 x h-540 perfect fit"
+        },
+        "element": {
+            "title": "text",
+            "vedio_link": "text",
+            "background_image": "file",
+            "size": "w-1000 x h-750 perfect fit"
+        }
+    },
+    "contact": {
+        "content": {
+            "location": "text",
+            "email": "text",
+            "phone": "text",
+            "map_link": "text",
+            "header_image": "file",
+            "site_image": "another_image",
+            "size": "w-1920 x h-540 perfect fit",
+            "site_image_size": "w-1200 x h-800 perfect fit"
+        }
+    },
+    "newsletter": {
+        "no_selection": true,
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        }
+    },
+    "footer": {
+        "no_selection": true,
+        "content": {
+            "footer_logo": "file",
+            "footer_short_description": "textarea",
+            "size": "w-250 x h-150 perfect fit"
+        },
+        "element": {
+            "social_link": "text",
+            "social_icon": "icon"
+        }
+    }
+}
